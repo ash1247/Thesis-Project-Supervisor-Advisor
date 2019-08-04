@@ -1,0 +1,10 @@
+This is a prolog project which is to select a supervisor for your final thesis/project. It contains 4 .pl files. Each of of them have their own use.
+
+To run the program, open bash and type
+
+swipl --quiet -O -s advisor.pl
+
+start.
+
+press . after every given input.
+
