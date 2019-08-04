@@ -1,4 +1,8 @@
 % A simple research supervisor advisor system
+% If temp.pl is not found in your directory, create a
+% file name temp.pl
+% Copyright by Ashikul Hosen, Email: sagor.ashikul@gmail.com
+
 % The user interface
 
 % Initialization procedures
